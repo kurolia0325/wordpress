@@ -1,11 +1,11 @@
 # encoding: utf-8
 # vim: ft=ruby expandtab shiftwidth=2 tabstop=2
 
-hostname: demo.vccw
-ip: 192.168.55.120
+hostname: demo1.vccw
+ip: 192.168.55.121
 version: latest
 lang: ja
-db_host: 192.168.55.120
+db_host: 192.168.55.121
 theme: ''
 
 theme_unit_test: false
